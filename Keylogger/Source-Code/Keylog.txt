@@ -1,1 +1,0 @@
-pyinstaller --hidden-import=pynput.keyboard._darwin --onefile --hidden-import=pynput.mouse._darwin Keylog.py}
